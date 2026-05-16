@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# VS Code (remove this line if you WANT to upload .vscode)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (if large)
+*.pkl
+*.h5
