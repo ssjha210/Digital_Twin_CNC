@@ -178,7 +178,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**jhash210**
+**Shanu Jha**
 - GitHub: [@ssjha210](https://github.com/ssjha210)
 
 ---
