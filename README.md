@@ -40,7 +40,7 @@ Digital_Twin_CNC/
 │   └── cnc_lathe_dataset.csv        # Raw sensor data from CNC lathe
 │
 ├── 📂 notebooks/
-│   └── data.ipynb                   # Main analysis notebook
+│   └── EDA.ipynb                   # Main analysis notebook
 │
 ├── 📂 models/                       # Trained ML models (if applicable)
 │   └── trained_model.pkl
